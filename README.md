@@ -1,8 +1,6 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://krisstacy-bates.github.io/Leaflet_Maps_for_KKSB/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-zC7VpHW9lhifmfaBfjjSnRKzHcS7Ja5ZtK5Cz1zTn8/edit?gid=0#gid=0
